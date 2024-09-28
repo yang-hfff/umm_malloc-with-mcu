@@ -9,7 +9,6 @@ int main(void)
     uart_init(115200);
     LOG_I("uart init ok\r\n");
     umm_init();
-    //umm_malloc(4)
     LOG_I("umm init ok\r\n");
     //µ⁄“ª¥Œ…Í«Î
     uint8_t *p = (uint8_t *)umm_malloc(16);
