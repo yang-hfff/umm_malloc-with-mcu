@@ -1,3 +1,9 @@
+/*************************************************************
+ * Copyright (C) 2024-09-28 Yang Haifeng. All rights reserved.
+ *
+ * This code is licensed under the MIT license
+ *************************************************************/
+
 #ifndef __SYSTICK
 #define __SYSTICK
 
