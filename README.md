@@ -2,7 +2,7 @@
 
 > 运行结果（串口助手显示）
 
-![](E:\CODE\MCU\STM32\UMM内存管理测试\image\result.jpg)
+![图片待加载](./image/result.jpg)
 
 本项目基于 **rhempel **大神的开源仓库 **umm_malloc** ，仓库地址为[https://github.com/rhempel/umm_malloc](https://github.com/rhempel/umm_malloc),程序移植性强，鲁棒性好。**经过本人在PC和STM32均验证，可放心使用**。
 
